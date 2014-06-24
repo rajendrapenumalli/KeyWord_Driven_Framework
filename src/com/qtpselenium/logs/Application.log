@@ -1,0 +1,13 @@
+28/06/2012 19:38:05 devpinoyLogger Hello
+28/06/2012 19:38:05 devpinoyLogger Properties loaded, started testing
+28/06/2012 19:38:05 devpinoyLogger Initialize Suite xlsx
+28/06/2012 19:38:06 devpinoyLogger Check Items-------N
+28/06/2012 19:38:06 devpinoyLogger Search Suite-------N
+28/06/2012 19:38:06 devpinoyLogger C Suite-------Y
+28/06/2012 19:38:06 devpinoyLogger *************Executing the script*****************  --- C Suite
+28/06/2012 19:38:06 devpinoyLogger SampleTest
+28/06/2012 19:38:06 devpinoyLogger Executing the Test cases  --- SampleTest
+28/06/2012 19:38:06 devpinoyLogger *** Iteration ***1
+28/06/2012 19:38:06 devpinoyLogger openBrowser
+28/06/2012 19:38:06 devpinoyLogger Opening the browser
+28/06/2012 19:38:06 devpinoyLogger PASS
